@@ -1,0 +1,11 @@
+/node_modules
+/storage/*.key
+/storage/logs/*
+/vendor
+/.idea
+/.vagrant
+Homestead.json
+Homestead.yaml
+npm-debug.log
+.env
+composer.phar
